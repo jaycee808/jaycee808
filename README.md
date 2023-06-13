@@ -2,7 +2,7 @@
 
 ### :rocket: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,heroku,jQuery,php,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,php,tailwind)](https://skillicons.dev)
 
 ### :boom: My Stats :
 
