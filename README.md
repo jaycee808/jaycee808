@@ -1,6 +1,6 @@
 ### Hello, I'm Jamie 👋
 
-https://komarev.com/ghpvc/?username=jaycee808
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaycee808&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **jaycee808/jaycee808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
