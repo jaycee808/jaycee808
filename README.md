@@ -6,9 +6,9 @@
 
 ### :boom: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaycee808&theme=sea&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaycee808&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaycee808&theme=dark&show_icons=true)
+![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaycee808&theme=prussian&show_icons=true)
 
 <!--
 **jaycee808/jaycee808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
