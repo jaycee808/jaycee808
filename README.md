@@ -4,7 +4,7 @@ I'm a Web Developer & Designer passionate about building modern, responsive, and
 
 ### :rocket: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress,php,mysql,jquery,bootstrap,tailwind,figma,github,laravel,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress,php,mysql,jquery,bootstrap,tailwind,figma,github,mongodb)](https://skillicons.dev)
 
 ### :boom: My Stats :
 
