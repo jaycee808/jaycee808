@@ -1,6 +1,6 @@
 ### Hello, I'm Jamie 👋
 
-I'm a Web Developer & Designer passionate about building modern, responsive, and user-friendly web applications. Currently, I am working on an exciting project using **Laravel** and **Vue.js**, further expanding my backend and frontend knowledge.
+I'm a Web Developer & Designer passionate about building modern, responsive, and user-friendly web applications.
 
 ### :rocket: Languages and Tools :
 
