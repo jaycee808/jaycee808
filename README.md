@@ -1,6 +1,6 @@
 ### Hello, I'm Jamie 👋
 
-I'm a Web Developer & Designer passionate about building modern, responsive, and user-friendly web applications.
+A creative web developer & designer with a love of bringing ideas to life through modern design and code.
 
 ### :rocket: Languages and Tools :
 
